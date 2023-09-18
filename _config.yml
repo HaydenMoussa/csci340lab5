@@ -1,34 +1,32 @@
-title: My personal blog - Adam Neilson
-email: your-email@domain.com
+title: My personal blog - Hayden Moussa
+email: Moussahj@hendrix.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog to track my progess through college, focusing on my computer science career!
 permalink: ':title/'
-baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
+baseurl: "/csci340lab5" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: Hayden Moussa # add your name
+author-pic: Hayden-Face.jpg
+about-author: My name is Hayden Moussa, I am a junior at hendrix college majoring in mathematics and computer science. 
 
 # Contact links
 email: # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: HaydenMoussa # Add your Github handle
+twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
+instagram: 'hay.j.m.13' # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: #mr-brown # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
