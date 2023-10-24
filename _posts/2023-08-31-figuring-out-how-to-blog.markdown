@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Introduction Post
-date: 2023-09-18
+date: 2023-08-31
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: post-6.jpg # Add image post (optional)
-tags: [Blog, Meditation]
+tags: [Blog, CSCI 340]
 author: Hayden Moussa # Add name author (optional)
 ---
 ## I Don't Know what I Just Did
