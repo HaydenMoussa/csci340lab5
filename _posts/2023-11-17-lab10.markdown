@@ -7,6 +7,6 @@ img: post-1.jpg # Add image post (optional)
 tags: [Blog, CSCI 340]
 author: Hayden Moussa # Add name author (optional)
 ---
-##Lab 10
+## Lab 10
 
 The most important part of the tutorial was creating the database and web system in Azure. With that came verifying the connection strings which I had some trouble with. How we divided up the work is I took the lead and came to my group whenever I had any questions or was getting any errors. They were able to help me fix a few bugs with a site creating the correct database server. My communication skills grew by talking with my team about the errors I was having. I was able to clearly explain them and thye gave good feedback. Click [Here](https://github.com/HaydenMoussa/csci340lab10) to open the repository. 
